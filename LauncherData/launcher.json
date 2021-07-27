@@ -1,5 +1,8 @@
 {
   "version": 0.1,
+  "imageLink": "https://github.com/pogga-was-taken/Into-The-Sky/blob/main/LauncherData/bg.jpg?raw=true",
+  "textColor": "#9966CC",
+  "textValue": "",
   "linkUpdater": "null",
   "title": "Into The Sky: Alpha Release"
 }
